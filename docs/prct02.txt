@@ -1,2 +1,6 @@
 Trabajo en equipo con git
 La diferencia entre el compilador y el interprete es que el interprete no compila todo el programa de una vez, sino que lee y compila una por una las instrucciones del programa fuente, en el orden de ejecución, Luego de compilar cada instrucción, la ejecuta.
+ ¿Cuál es la principal diferencia entre el contenido del ﬁchero helloWorld.sh y helloWorld.rb?
+La principal diferencia es que el helloWorld.rb está en lenguaje de programación ruby y el helloWorld.sh está en lenguaje bash.
+¿Qué signiﬁcado tiene la primera l´ınea del ﬁchero helloWorld.sh?
+Esta linea indica donde se encuentra el interprete de comandos en nuestro sistema.
